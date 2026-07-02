@@ -4,8 +4,6 @@
 
 单 PNG 图像加密与还原：分块旋转打乱，还原信息隐写在像素 LSB 中，密钥由图像 MSB 派生，无需输入密码。
 
-> GitHub Description（创建仓库时可粘贴）：  
-> `Key-Driven Coherent Jigsaw Cipher — puzzle-style image encryption with self-contained PNG restore`
 
 ## 使用
 
